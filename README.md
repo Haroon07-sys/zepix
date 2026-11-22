@@ -3,13 +3,6 @@ Free · No sign-up
 
 Zapix is a fast, clean IPTV player that brings you live TV from around the world. Search every channel at once, jump to any channel by its number, and fall asleep with a timer. Watch on your Android phone or right here in your browser.
 
-📸 Screenshots
-Browse by Country	Live TV Dashboard	Every Channel Numbered
-<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/07-countries-framed.png" width="250" alt="Browse by Country">	<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/01-home-framed.png" width="250" alt="Live TV Dashboard">	<img src="path/to/channel-numbered.png" width="250" alt="Every channel numbered">
-Type a Number	Sleep Timer	Search Every Country
-<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/03-quick-zap-framed.png" width="250" alt="Type a number to zap">	<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/04-sleep-timer-framed.png" width="250" alt="Sleep Timer">	<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/05-global-search-framed.png" width="250" alt="Search every country">
-Watch in Your Language
-<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/06-language-filter-framed.png" width="250" alt="Watch in your language">
 ✨ Features
 Everything you need to find and watch, built around speed and simplicity.
 
