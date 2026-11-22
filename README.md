@@ -5,7 +5,7 @@ Zapix is a fast, clean IPTV player that brings you live TV from around the world
 
 📸 Screenshots
 Browse by Country	Live TV Dashboard	Every Channel Numbered
-<img src="path/to/browse-by-country.png" width="250" alt="Browse by Country">	<img src="path/to/live-tv.png" width="250" alt="Live TV Dashboard">	<img src="path/to/channel-numbered.png" width="250" alt="Every channel numbered">
+<img src="path/to/browse-by-country.png" width="250" alt="Browse by Country">	<img src="https://github.com/Haroon07-sys/zepix/blob/main/Framed/01-home-framed.png" width="250" alt="Live TV Dashboard">	<img src="path/to/channel-numbered.png" width="250" alt="Every channel numbered">
 Type a Number	Sleep Timer	Search Every Country
 <img src="path/to/type-number.png" width="250" alt="Type a number to zap">	<img src="path/to/sleep-timer.png" width="250" alt="Sleep Timer">	<img src="path/to/search-country.png" width="250" alt="Search every country">
 Watch in Your Language
